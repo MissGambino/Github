@@ -1,3 +1,4 @@
 1. Strength through struggle
 
 2. Test
+3. New line on Github
